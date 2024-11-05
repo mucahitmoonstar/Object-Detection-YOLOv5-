@@ -34,5 +34,7 @@ Versatility: YOLO can be applied to both video and still images, allowing it to 
 
 **RESULT**
 
+![adana teknofest](https://github.com/user-attachments/assets/810eb379-0b19-46bb-a95b-899155306a76)
 
-C:\Users\mucah\OneDrive\Desktop\python\Object Detection (YOLO v11)\runs\detect\exp\adana teknofest.jpg
+
+
