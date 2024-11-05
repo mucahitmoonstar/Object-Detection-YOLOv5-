@@ -34,7 +34,8 @@ Versatility: YOLO can be applied to both video and still images, allowing it to 
 
 **RESULT**
 
-![adana teknofest](https://github.com/user-attachments/assets/810eb379-0b19-46bb-a95b-899155306a76)
+![adana teknofest](https://github.com/user-attachments/assets/e6f16c29-b6fe-4a92-aa9b-c69f9e2fbe36)
+
 
 
 
