@@ -33,3 +33,6 @@ Simplicity: YOLO is end-to-end, meaning it processes an image in a single pass, 
 Versatility: YOLO can be applied to both video and still images, allowing it to detect objects in various media formats.
 
 **RESULT**
+
+
+C:\Users\mucah\OneDrive\Desktop\python\Object Detection (YOLO v11)\runs\detect\exp\adana teknofest.jpg
